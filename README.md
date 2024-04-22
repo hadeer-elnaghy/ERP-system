@@ -3,7 +3,7 @@ An ERP system is a software solution that helps businesses streamline and integr
 
 ## Feature Analysis
 
-BUSINESS MANAGEMENT
+### BUSINESS MANAGEMENT
 
 • Multiple Business<br />
 • Multiple business Locations, Store Fronts, Warehouses<br />
