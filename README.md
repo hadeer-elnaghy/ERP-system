@@ -4,16 +4,15 @@ An ERP system is a software solution that helps businesses streamline and integr
 # Feature Analysis
 
 BUSINESS MANAGEMENT
-• sss <br />
-• ww
 
-• Multiple Business
-• Multiple business Locations, Store Fronts, Warehouses
-• Set Currency, Time Zone, Financial Year, profit margin, tax
+• Multiple Business<br />
+• Multiple business Locations, Store Fronts, Warehouses<br />
+• Set Currency, Time Zone, Financial Year, profit margin, tax<br />
 registration details, and more options...
 
 PRODUCT MANAGEMENT
-Single & Variable Products
+
+• Single & Variable Products
 • Enable/disable Stock Management
 • Add Brands, Category, Units, Tax Rates, Group Taxes.
 • Products with Expiry
