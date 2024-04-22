@@ -1,7 +1,7 @@
 # ERP system
 An ERP system is a software solution that helps businesses streamline and integrate their core processes, such as finance, HR, and supply chain, to boost efficiency and productivity.
 
-# Feature Analysis
+## Feature Analysis
 
 BUSINESS MANAGEMENT
 
