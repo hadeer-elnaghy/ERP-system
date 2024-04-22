@@ -95,4 +95,4 @@ Supports Barcode Scanner, Thermal Printer (ESC/POS)<br />
 • Translation Ready, Detailed Documentation<br />
 
 
-
+https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png
