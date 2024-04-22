@@ -94,4 +94,9 @@ OTHERS
 Supports Barcode Scanner, Thermal Printer (ESC/POS)<br />
 • Translation Ready, Detailed Documentation<br />
 
+![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png)
+![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png)
+![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png)
+![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png)
 ![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png)
+
