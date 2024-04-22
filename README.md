@@ -32,9 +32,9 @@ PURCHASES
 • Taxes, Discounts, Shipping Charges<br />
 • Specify product Lot number & expiry.<br />
 • Upload purchase document<br />
-•Quick Add Product in purchase screen.<br />
+• Quick Add Product in purchase screen.<br />
 
-SELL & POS TERMINAL
+SELL & POS
 
 • Add, Edit, Delete, View, Print<br />
 • Credit, Paid & Partially paid sales<br />
@@ -65,16 +65,34 @@ STAFF, SALESPERSON, CASHIER
 • Add cashier for business location.<br />
 • Staff Salary and expense management<br />
 
-REPORT
+REPORTS
 
 • Powerful reports with filters & charts<br />
 • Profit & Loss report, Purchase & Sell report, Stock reports, Trending product report, Tax reports, Expenses reports, Suppliers & Customers report, Cash Registers reports,Salesperson report etc<br />
 
+WOOCOMERCE
+
+• Integration with WooCommerce API allows businesses to seamlessly connect their back-end processes, such as inventory management, order processing, and customer data, with their online store powered by WooCommerce. This integration enables real-time synchronization of data between the ERP system and the e-commerce platform, providing a unified and efficient way to manage both online and offline operations.
+<br />
+
+ACCOUNTING
+
+• Manages financial transactions, including recording, processing, and reporting.<br />
+• It tracks income, expenses, assets, liabilities, and equity to provide a comprehensive view of the company's financial health.<br />
+• The module automates tasks such as invoicing, billing, and reconciliation to streamline the financial processes.<br />
+• It integrates with other modules like procurement, sales, and inventory to ensure accurate financial data across the system.<br />
+• generating financial statements, such as balance sheets, income statements, and cash flow statements, to help with decision-making and compliance.<br />
+
+
 OTHERS
 
+• Integration with Egyptian eInvoicing & eReceipt SDK
 • SMS & Email notifications<br />
 • Interactive Dashboard with overall shop details and charts<br />
 • Stock Adjustments, Expense management, Cash Register<br />
 • Fully Customise invoice layout, barcode settings<br />
 Supports Barcode Scanner, Thermal Printer (ESC/POS)<br />
 • Translation Ready, Detailed Documentation<br />
+
+
+
