@@ -48,11 +48,35 @@ A lightning-fast Point of Sale interface optimized for high-volume transactions.
 ## 📸 System Showcase (Dashboard & POS)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png" width="45%" height="250" style="object-fit: cover; display: inline-block;" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png" width="45%" height="250" style="object-fit: cover; display: inline-block;" />
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png" width="45%" height="250" style="object-fit: cover; display: inline-block;" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png" width="45%" height="250" style="object-fit: cover; display: inline-block;" />
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png" width="45%" height="250" style="object-fit: cover; display: inline-block;" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png" alt="Home Dashboard"/><br />
+        <sub><b>Home Dashboard</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png" alt="POS System"/><br />
+        <sub><b>POS System</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png" alt="Products Management"/><br />
+        <sub><b>Product Management</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png" alt="Sales Tracking"/><br />
+        <sub><b>Sales Tracking</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png" alt="Accounting"/><br />
+        <sub><b>Accounting Dashboard</b></sub>
+      </td>
+      <td width="50%"></td> </tr>
+  </table>
 </div>
-
 ---
 
 <p align="center">
