@@ -1,102 +1,69 @@
-# ERP system
-An ERP system is a software solution that helps businesses streamline and integrate their core processes, such as finance, HR, and supply chain, to boost efficiency and productivity.
+# Enterprise ERP & POS Ecosystem 📊🏢
+### Unified Business Management, Accounting & E-Commerce Integration
 
-## Feature Analysis
+[![Framework](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Integration](https://img.shields.io/badge/Integration-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://woocommerce.com)
+[![Compliance](https://img.shields.io/badge/Compliance-Egyptian_eInvoicing-blue?style=for-the-badge&logo=taxfix&logoColor=white)](https://www.eta.gov.eg/)
 
-BUSINESS MANAGEMENT
+A comprehensive **Enterprise Resource Planning (ERP)** solution designed to streamline core business processes, from multi-location retail and inventory to complex accounting and regulatory compliance. This system offers a unified dashboard to manage online and offline operations with real-time precision.
 
-• Multiple Business<br />
-• Multiple business Locations, Store Fronts, Warehouses<br />
-• Set Currency, Time Zone, Financial Year, profit margin, tax<br />
-registration details, and more options...
+---
 
-PRODUCT MANAGEMENT
+## 🏗️ Core Operational Modules
 
-• Single & Variable Products <br />
-• Enable/disable Stock Management<br />
-• Add Brands, Category, Units, Tax Rates, Group Taxes.<br />
-• Products with Expiry<br />
-• Low Stock Alert & expiry alerts<br />
-• Predefined SKU or Auto Generate SKU<br />
-• IMEI/Serial number, Lot number<br />
-• Print Bar-code & Labels<br />
-• Selling price group.<br />
-• Import product CSV, and much more...<br />
+### 💼 Multi-Entity Management
+Scalable architecture designed for growing businesses.
+- **Multiple Business Locations:** Manage infinite storefronts and warehouses from a single login.
+- **Global Settings:** Centralized control over currencies, time zones, financial years, and profit margins.
 
-PURCHASES
+### 📦 Advanced Product & Inventory
+Total control over your supply chain and stock lifecycle.
+- **Dynamic Product Engine:** Supports single, variable, and combo products with automated SKU generation.
+- **Stock Intelligence:** Real-time stock alerts, expiry tracking, and IMEI/Serial/Lot number management.
+- **Barcode Labelling:** Integrated tools for printing barcodes and custom labels.
 
-• Add, Edit, Delete, View, Print purchase<br />
-• Purchase return<br />
-• Credit, Paid & Partially paid. Multiple payment options.<br />
-• Payment reminders<br />
-• Taxes, Discounts, Shipping Charges<br />
-• Specify product Lot number & expiry.<br />
-• Upload purchase document<br />
-• Quick Add Product in purchase screen.<br />
+### 💰 Automated Accounting & Finance
+Full-throttle financial management for total transparency.
+- **360° Financial Tracking:** Automated tracking of income, expenses, assets, liabilities, and equity.
+- **Smart Reconciliation:** Automated invoicing, billing, and bank reconciliation.
+- **Compliance Ready:** Integrated with **Egyptian eInvoicing & eReceipt SDK** for regulatory adherence.
 
-SELL & POS
+### 🛒 High-Performance Sell & POS
+A lightning-fast Point of Sale interface optimized for high-volume transactions.
+- **Ajax-Powered Interface:** No page reloads for maximum cashier efficiency.
+- **Flexible Payments:** Supports Cash, Credit Cards, Cheques, and Bank Transfers.
+- **Commission Management:** Native support for commission agents and salesperson incentivization.
 
-• Add, Edit, Delete, View, Print<br />
-• Credit, Paid & Partially paid sales<br />
-• Sales Return<br />
-• Taxes, Discounts, Shipping Charges<br />
-• Keyboard Shortcuts<br />
-• Improved POS to save time (no page
-reload, Fully Ajax)<br />
-• Payment options - Cash, CC, Cheque, Bank
-Transfer<br />
-• Walk-In or Quick Add Customer<br />
-• Specify comission agent.<br />
+---
 
-SUPPLIERS & CUSTOMERS
+## ⚡ Key Integrations & Features
 
-• Add contacts as Supplier, Customer or Both<br />
-• Pay Terms & payment alerts<br />
-• Details payment details.<br />
-• Detailed Purchase & Sell transactions<br />
+- **✅ WooCommerce Sync:** Real-time synchronization of inventory, orders, and customer data.
+- **✅ Powerful Reporting:** Over 20+ specialized reports with interactive filters and charts.
+- **✅ SMS & Email Hub:** Automated notifications for orders, stock levels, and payment reminders.
+- **✅ Advanced RBAC:** Granular user permissions and predefined roles (Admin, Cashier, etc.).
 
-STAFF, SALESPERSON, CASHIER
+---
 
-• Advance user management module<br />
-• Permissions & Roles<br />
-• Commission agents<br />
-• Assign Business Location(s) to a role<br />
-• Predefined Roles - Admin & Cashier<br />
-• Add cashier for business location.<br />
-• Staff Salary and expense management<br />
+## 📸 System Showcase (Dashboard & POS)
 
-REPORTS
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png" width="400" height="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png" width="400" height="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png" width="400" height="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png" width="400" height="250" /></td>
+      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png" width="400" height="250" /></td>
+      <td><div align="center"><i>More Modules Available</i></div></td>
+    </tr>
+  </table>
+</div>
 
-• Powerful reports with filters & charts<br />
-• Profit & Loss report, Purchase & Sell report, Stock reports, Trending product report, Tax reports, Expenses reports, Suppliers & Customers report, Cash Registers reports,Salesperson report etc<br />
+---
 
-WOOCOMERCE
-
-• Integration with WooCommerce API allows businesses to seamlessly connect their back-end processes, such as inventory management, order processing, and customer data, with their online store powered by WooCommerce. This integration enables real-time synchronization of data between the ERP system and the e-commerce platform, providing a unified and efficient way to manage both online and offline operations.
-<br />
-
-ACCOUNTING
-
-• Manages financial transactions, including recording, processing, and reporting.<br />
-• It tracks income, expenses, assets, liabilities, and equity to provide a comprehensive view of the company's financial health.<br />
-• The module automates tasks such as invoicing, billing, and reconciliation to streamline the financial processes.<br />
-• It integrates with other modules like procurement, sales, and inventory to ensure accurate financial data across the system.<br />
-• generating financial statements, such as balance sheets, income statements, and cash flow statements, to help with decision-making and compliance.<br />
-
-
-OTHERS
-
-• Integration with Egyptian eInvoicing & eReceipt SDK
-• SMS & Email notifications<br />
-• Interactive Dashboard with overall shop details and charts<br />
-• Stock Adjustments, Expense management, Cash Register<br />
-• Fully Customise invoice layout, barcode settings<br />
-Supports Barcode Scanner, Thermal Printer (ESC/POS)<br />
-• Translation Ready, Detailed Documentation<br />
-
-![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png)
-![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png)
-![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png)
-![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png)
-![alt text](https://github.com/hadeer-elnaghy/ERP-system/blob/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png)
-
+<p align="center">
+  Developed with ❤️ by <b>Hadeer Elnaghy</b>
+</p>
